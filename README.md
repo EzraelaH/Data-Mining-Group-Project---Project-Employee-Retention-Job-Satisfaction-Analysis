@@ -1,1 +1,1 @@
-# Data-Mining-Group-Project---Project-Employee-Retention-Job-Satisfaction-Analysis
+# Data Mining Group Project - Employee Retention Job-Satisfaction Analysis
